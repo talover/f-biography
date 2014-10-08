@@ -1,0 +1,68 @@
+
+@font-face {
+    font-family: 'weblysleek_uisemilight';
+    src: url('fonts/weblysleekuisl-webfont.eot');
+    src: url('fonts/weblysleekuisl-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/weblysleekuisl-webfont.woff') format('woff'),
+         url('fonts/weblysleekuisl-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'weblysleek_uisemibold';
+    src: url('fonts/weblysleekuisb-webfont.eot');
+    src: url('fonts/weblysleekuisb-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/weblysleekuisb-webfont.woff') format('woff'),
+         url('fonts/weblysleekuisb-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'weblysleek_uilight';
+    src: url('fonts/weblysleekuil-webfont.eot');
+    src: url('fonts/weblysleekuil-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/weblysleekuil-webfont.woff') format('woff'),
+         url('fonts/weblysleekuil-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'weblysleek_uisemibold_italic';
+    src: url('fonts/weblysleekuisbi-webfont.eot');
+    src: url('fonts/weblysleekuisbi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/weblysleekuisbi-webfont.woff') format('woff'),
+         url('fonts/weblysleekuisbi-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'weblysleek_uilight_italic';
+    src: url('fonts/weblysleekuili-webfont.eot');
+    src: url('fonts/weblysleekuili-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/weblysleekuili-webfont.woff') format('woff'),
+         url('fonts/weblysleekuili-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PreiskurantSTRegular';
+    src: url('fonts/preiskurantst.eot');
+    src: url('fonts/preiskurantst.eot') format('embedded-opentype'),
+         url('fonts/preiskurantst.woff') format('woff'),
+         url('fonts/preiskurantst.ttf') format('truetype'),
+         url('fonts/preiskurantst.svg#PreiskurantSTRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'PreiskurantSTItalic';
+    src: url('fonts/preiskurantst_italic.eot');
+    src: url('fonts/preiskurantst_italic.eot') format('embedded-opentype'),
+         url('fonts/preiskurantst_italic.woff') format('woff'),
+         url('fonts/preiskurantst_italic.ttf') format('truetype'),
+         url('fonts/preiskurantst_italic.svg#PreiskurantSTItalic') format('svg');
+}
